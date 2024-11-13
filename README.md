@@ -1,6 +1,10 @@
 # Vulnerable Mama Shop
 A simple docker application for learning SQL Injection
 
+- **👉 Checkout some more awesome tools at [GetCyber](https://getcyber.me/tools)**
+- **👉 Subscribe to my YouTube Channel [GetCyber - YouTube](https://youtube.com/getCyber)**
+- **👉 Discord Server [GetCyber - Discord](https://discord.gg/YUf3VpDeNH)**
+
 ## Introduction
 
 This is a simple docker application using Ubuntu 16.04 xenial, apache2 httpd (2.4), php (7.0) and mariadb (10), a classical LAMP stack, to
